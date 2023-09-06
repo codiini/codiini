@@ -1,7 +1,7 @@
 ## Hola 👋🏾
 
 My name is Iniubong Obonguko, I am a Software Engineer and Technical writer. I love to create beautiful web interfaces and share knowledge acquired from the process. 
-As a freelance technical writer for various publications and companies, I create content on my [blog](https://blog.iniubongobonguko.com).
+As a freelance technical writer for various publications and companies, I create content on my [blog](https://blog.iniubong.com).
 
 ## What I'm currently interested in
 
