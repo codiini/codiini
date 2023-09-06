@@ -10,7 +10,7 @@ I'm currently interested in blockchain technology and web.3.0 and how to integra
 ## Useful Links
 
 
-- [Personal website](https://iniubongobonguko.com)
+- [Personal website](https://iniubong.com)
 - [Blog](https://blog.iniubongobonguko.com)
 - [Linkedin](https://linkedin.com/in/iniubongobonguko)
 - [Twitter](https://twitter.com/IObonguko)
