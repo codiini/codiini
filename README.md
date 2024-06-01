@@ -14,4 +14,5 @@ I'm interested in blockchain technology and how to integrate it into the current
 - [Blog](https://www.blog.iniubong.com)
 - [Linkedin](https://www.linkedin.com/in/iniubongobonguko)
 - [Twitter](https://www.twitter.com/IObonguko)
+- [Stack Overfow](https://stackoverflow.com/users/12328868/iniubong-obonguko)
 - [Logrocket](https://www.blog.logrocket.com/author/iniubongobonguko)
