@@ -4,11 +4,9 @@ I am Iniubong Obonguko, a Software Engineer and Technical writer. I love to crea
 As a freelance technical writer for various publications and companies, I create content on my [blog](https://blog.iniubong.com).
 
 ## What I'm currently interested in
-
-I'm interested in blockchain technology and how to integrate it into the currently available technology. I believe it is the future of the internet, and I try to create content around what I have learned on my blog and other companies.
+I'm interested in working on open-source developer tooling and optimizing the developer experience via the tools/libraries they use daily.
 
 ## Useful Links
-
 
 - [Personal website](https://www.iniubong.com)
 - [Blog](https://www.blog.iniubong.com)
