@@ -11,6 +11,6 @@ I'm interested in working on open-source developer tooling and optimizing the de
 - [Personal website](https://www.iniubong.com)
 - [Blog](https://www.blog.iniubong.com)
 - [Linkedin](https://www.linkedin.com/in/iniubongobonguko)
-- [Twitter](https://www.twitter.com/IObonguko)
+- [Twitter](https://www.twitter.com/codiini)
 - [Stack Overflow](https://stackoverflow.com/users/12328868/iniubong-obonguko)
 - [Logrocket](https://www.blog.logrocket.com/author/iniubongobonguko)
